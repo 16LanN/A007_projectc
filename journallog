@@ -1,1 +1,8 @@
 Uni Based
+
+Week 5
+1. Fix the date and time edit for existing tasks
+2. Create the basic notification mechanic which is triggered by time
+3. Provide an option to turn off the notification for specific task
+4. Provide user an option to trigger time
+5. multilanguage basic level
